@@ -1,4 +1,4 @@
-=== Captain Social ===
+=== Social Profile Linking ===
 Contributors: contact4sajid
 Donate link: http://sksphpdev.com/plugins/
 Tags: social links, social media, Facebook, twitter, social, social marketing, social profiles, social networks
