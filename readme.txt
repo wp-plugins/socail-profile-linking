@@ -85,5 +85,5 @@ Yes, coming soon in next version
 == Changelog ==
 
 = 1.0 =
+Initial release
 
-* Initial Release.
