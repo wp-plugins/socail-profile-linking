@@ -1,6 +1,6 @@
 === Social Profile Linking ===
-Contributors: contact4sajid
-Donate link: http://sksphpdev.com/plugins/
+Contributors: contact4sajid, sksdev
+Donate link: http://sksdev.com
 Tags: social links, social media, Facebook, twitter, social, social marketing, social profiles, social networks
 Requires at least: 3.6
 Tested up to: 4.0
@@ -40,7 +40,7 @@ Once you've added a few of your social link URLs, you need to insert them in you
 * SoundCloud
 * Spotify
 * Rdio
-* *If you have any query or suggestion? [Let me know!](mailto:info@sksphpdev.com)*
+* *If you have any query or suggestion? [Let me know!](mailto:info@sksdev.com)*
 
 
 **Credits:**

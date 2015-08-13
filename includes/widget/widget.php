@@ -153,7 +153,7 @@ type="checkbox" <?php if($pbchk){ ?> checked <?php }?> />
 <input class="widefat" id="<?php echo $this->get_field_id('soundcloud'); ?>" name="<?php echo $this->get_field_name('soundcloud'); ?>" type="text" value="<?php echo $soundcloud; ?>" />
 </p>
 
-<p>Developed By: <a href="http://www.sksphpdev.com">SKSPHPDEV</a></p>
+<p>Developed By: <a href="http://www.sksdev.com">SKSDEV</a></p>
 
 <?php
 }
@@ -331,7 +331,7 @@ ob_start(); ?>
         ?>
         
         <?php if ( $pbchk =='' ) { ?>	
-    <p>Developed By: <a href="http://www.sksphpdev.com">SKSPHPDEV</a></p>
+    <p>Developed By: <a href="http://www.sksdev.com">SKSDEV</a></p>
     <?php } ?>
 	</div><!-- spl -->
 

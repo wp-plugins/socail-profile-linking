@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Social Profile Linking 
-Plugin URI: http://sksphpdev.com/plugins/
+Plugin URI: https://wordpress.org/plugins/socail-profile-linking/
 Description: Simple & awesome social profile icons and links.
-Author: SKSPHPDEV
-Author URI: http://sksphpdev.com
+Author: SKS DEV
+Author URI: http://sksdev.com
 Version: 1.0
 License: GNU GPL v2
 */
