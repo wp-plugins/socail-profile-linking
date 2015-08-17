@@ -1,5 +1,5 @@
 === Social Profile Linking ===
-Contributors: contact4sajid, sksdev
+Contributors: sksdev
 Donate link: http://sksdev.com
 Tags: social links, social media, Facebook, twitter, social, social marketing, social profiles, social networks
 Requires at least: 3.6
